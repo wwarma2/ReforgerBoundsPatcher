@@ -1,6 +1,6 @@
 # World Bounds Editor 🗺️
 
-A simple GUI-based tool for modifying `GenericWorldEntity` world bounds in game files.  
+A simple GUI-based tool for modifying `GenericWorldEntity` world bounds in game files for ARMA Reforger world editor projects.  
 Supports automatic conversion from km to meters and ensures existing data integrity.
 
 ## Features 🚀
