@@ -33,4 +33,4 @@ This project is licensed under the **MIT License** – free to use and modify.
 Feel free to fork this repository and submit **pull requests**! Any improvements are welcome.
 
 ## Author 💡
-Created by **Rev** (armaconflict.com)
+Created by **Rev** (https://armaconflict.com)
