@@ -10,10 +10,11 @@ Supports automatic conversion from km to meters and ensures existing data integr
 ✅ Provides a user-friendly **Tkinter GUI**  
 ✅ Open-source under **MIT License**  
 
+## Installation & Usage 🛠️
 
 1. **Clone the repository:**
 
-git clone https://github.com/YOUR-USERNAME/world-bounds-editor.git
+git clone https://github.com/wwarma2/world-bounds-editor.git
 
 2. **Install required dependencies** (Python 3 required):
 
